@@ -1,6 +1,14 @@
 # Understanding Self-Supervised Learning with Bootstrap-Your-Own-Latent (BYOL)
 
-Zhihua Zhang, Ramya Muthukrishnan, Daniel Lee
+Collaborators: Zhihua Zhang, Ramya Muthukrishnan, Daniel Lee
+
+## BYOL architecture
+
+![byol_arch](https://github.com/zhihua-zhang/ESE546_BYOL/blob/main/results/byol_arch.png)
+
+## Final result (left: resnet18, middle: byol, right: fine-tune resnet18 after byol)
+
+![byol_result](https://github.com/zhihua-zhang/ESE546_BYOL/blob/main/results/byol_baseline.png)
 
 ## Requirements
 
